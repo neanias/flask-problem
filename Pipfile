@@ -7,6 +7,7 @@ verify_ssl = true
 flake8 = "*"
 flake8-bugbear = "*"
 flake8-import-order = "*"
+black = "==19.3b0"
 
 [packages]
 flask = "~=1.1"
